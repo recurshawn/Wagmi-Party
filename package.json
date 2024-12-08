@@ -11,12 +11,22 @@
   "dependencies": {
     "@coinbase/onchainkit": "^0.35.8",
     "@huddle01/react": "^2.2.4",
+    "@huddle01/server-sdk": "^2.5.5",
+    "@p5-wrapper/next": "^1.0.3",
+    "@p5-wrapper/react": "^4.4.2",
+    "@radix-ui/react-slot": "^1.1.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.468.0",
     "next": "14.2.20",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20",
+    "@types/p5": "^1.7.6",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
